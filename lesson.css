@@ -1,0 +1,102 @@
+*{
+     margin: 0px;
+     padding: 0px;
+}
+.bigimage{
+     background-image: url(giphy.gif);
+     background-size: 100% 100%;
+     width: 100%;
+     height: 700px;
+}
+.menu{
+     width: 100%;
+     height: 80px;
+     
+}
+/* h4{
+     color: aliceblue;
+     font-size: 20px;
+     font-weight: bold;
+     font-family: sans-serif; */
+
+.rightmenu{
+     width: 25%;
+     line-height: 100px;
+     float: left;
+}
+.rightmenu{
+     padding-left: 70px;
+     font-weight: bold;
+     color: white;
+     font-size: 22px;
+     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+ .rightmenu{
+     width: 75%;
+     height: 100px;
+     float: right;
+ }
+ .rightmenu ul{
+     margin-left: 280px;
+ }
+ .rightmenu ul li{
+font-family: 'Courier New', Courier, monospace;
+display: inline-block;
+list-style-type: none;
+font-size: 15px;
+color: white;
+font-weight: bold;
+line-height: 100px;
+margin-left: 40px;
+text-transform: uppercase;
+ }
+ #firstname{
+     color: orange;
+ }
+ .rightmenu ul li:hover{
+     color: blueviolet;
+ } 
+ .text{
+     width: 100%;
+     text-transform:uppercase ;
+     text-align: center;
+     color: white;
+ }
+.text h4{
+     font-size: 14px;
+     font-family: 'Times New Roman', Times, serif;
+}
+text h1{
+     font-size: 75px;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-weight: 800px;
+     margin: 14px opx;
+
+}
+text h3{
+      font-size: 20px;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#btn1{
+     background-color: blueviolet;
+     border: 3px solid white;
+     font-size: 20px;
+     font-family: 'Courier New', Courier, monospace;
+     text-transform: uppercase;
+     line-height: 40px;
+     width: 150px;
+     font-family: sans-serif;
+     margin-top: 20px;
+}
+#btn2{
+     background-color: blueviolet;
+     border: 3px solid white;
+     font-size: 20px;
+     font-family: 'Courier New', Courier, monospace;
+     text-transform: uppercase;
+     line-height: 40px;
+     width: 150px;
+     font-family: sans-serif;
+     margin-top: 20px;
+}
